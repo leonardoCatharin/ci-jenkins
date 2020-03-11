@@ -1,2 +1,6 @@
 /ci-jenkins/nbproject/private/
 /ci-jenkins/build/
+/dist/
+/cijenkins/nbproject/private/
+/cijenkins/build/
+/cijenkins/dist/
